@@ -6,6 +6,4 @@ Read my [blog post]() on this project to understand the process I took in cleani
  
 You can interact with the insightful [dashboard]() report I built showcasing the hidden insights into the causes of the health crisis ravaging the Africa nations.
 
-Below is a pdf document describing the case study and the datasets provided for this hackaton.
-
-![Case Study Description](https://github.com/Chisomnwa/10Alytics-Hackaton---Tackling-the-Health-Crisis-in-Africa.pdf)
+[Here](https://github.com/Chisomnwa/10Alytics-Hackaton---Tackling-the-Health-Crisis-in-Africa) is a pdf document describing the case study and the datasets provided for this hackaton.
