@@ -8,4 +8,4 @@ You can interact with the insightful [dashboard]() report I built showcasing the
 
 Below is a pdf document describing the case study and the datasets provided for this hackaton.
 
-![Case Study Description](https://github.com/Chisomnwa/10Alytics-Hackaton---Tackling-the-Health-Crisis-in-Africa)
+![Case Study Description](https://github.com/Chisomnwa/10Alytics-Hackaton---Tackling-the-Health-Crisis-in-Africa.pdf)
